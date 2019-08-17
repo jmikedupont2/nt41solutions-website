@@ -1,0 +1,20 @@
+{
+  "name": "nt41-checkout",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "cssbeautify": "^0.3.1",
+    "cssbeautify-cli": "^0.5.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-paypal-button-v2": "^2.3.2",
+    "react-scripts": "0.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

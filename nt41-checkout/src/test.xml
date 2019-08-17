@@ -1,0 +1,76 @@
+<div class="home page-template page-template-template-home page-template-template-home-php page page-id-13">
+
+  <div id="home" class="top__banner" data-component="Main">
+    <div class="img60-right"><img src=
+    "/wp-content/uploads/2019/07/nt41_bottle-1.png" /> <img class=
+    "img60-right-bg" src=
+    "/wp-content/themes/nt41/images/grey.png" /></div>
+    <div class="container row col-lg-6 col-md-12">
+      <h1 class="module">NT-Lyte</h1>
+      <p class="module">Your natural Alkaline and Trace Mineral
+      concentrate pH 12+</p>
+      <a href=
+	 "https://www.amazon.com/NT-Lyte-Concentrated-Alkaline-Solutions-Krasniqis/dp/B07G61N8WZ"
+	 class="module" target="_blank"><img src="cart.svg" alt=
+	 "shopping cart" />Buy now</a></div>
+  </div>
+  <div class="showcase__about__bg" data-component="About">
+    <div class="img60-left"><img src=
+    "/wp-content/uploads/2019/02/showcase.png" /> <img class=
+    "img60-left-bg" src=
+    "/wp-content/themes/nt41/images/grey2.png" /></div>
+    <div id="showcase" class=
+	 "block block--padding container row col-lg-6 offset-lg-6">
+      <h3 class="block__subtitle module">Enhance your well-being with the
+      benefits of naturally sourced alkalizing Trace Minerals.</h3>
+      <ul class="row module">
+	<li class="col-xl-6 col-lg-12 col-md-6 col-sm-6">
+	  <div><img src="arrow.svg" alt="arrow" /> Plant Based</div>
+	</li>
+	<li class="col-xl-6 col-lg-12 col-md-6 col-sm-6">
+	  <div>Low in Sodium</div>
+	</li>
+	<li class="col-xl-6 col-lg-12 col-md-6 col-sm-6">
+	  <div><img src="arrow.svg" alt="arrow" /> Handmade</div>
+	</li>
+	<li class="col-xl-6 col-lg-12 col-md-6 col-sm-6">
+	  <div><img src="arrow.svg" alt="arrow" /> No Calories</div>
+	</li>
+	<li class="col-xl-6 col-lg-12 col-md-6 col-sm-6">
+	  <div><img src="arrow.svg" alt="arrow" /> Vegan</div>
+	</li>
+	<li class="col-xl-6 col-lg-12 col-md-6 col-sm-6">
+	  <div><img src="arrow.svg" alt="arrow" /> No Preservatives</div>
+	</li>
+	<li class="col-xl-6 col-lg-12 col-md-6 col-sm-6">
+	  <div><img src="arrow.svg" alt="arrow" /> No Pesticides</div>
+	</li>
+	<li class="col-xl-6 col-lg-12 col-md-6 col-sm-6">
+	  <div><img src="arrow.svg" alt="arrow" /> No Synthetic
+	  Ingredients</div>
+	</li>
+	<li class="col-xl-6 col-lg-12 col-md-6 col-sm-6">
+	  <div><img src="arrow.svg" alt="arrow" /> GMP certified</div>
+	</li>
+	<li class="col-xl-6 col-lg-12 col-md-6 col-sm-6">
+	  <div><img src="arrow.svg" alt="arrow" /> Handmade in USA</div>
+	</li>
+      </ul>
+      <a href="#" class="load__more module"><img src="arrow.svg" alt=
+      "arrow" /> <span>View All Specifications</span></a></div>
+      <div id="about" class="block block--padding about container">
+	<h3 class="block__title module">Extracted from <span>virgin
+	plants</span></h3>
+	<div class="row">
+	  <div class="col-lg-6 module">
+	    <p>Ajtene's formula is a unique composition of naturally occurring
+	    Alkaline and Trace Minerals that enhance body's vital function and
+	    development.</p>
+	  </div>
+	  <div class="col-lg-6 module">
+	    <p>Collected by hand, selected from the depths of wild nature.</p>
+	  </div>
+	</div>
+      </div>
+  </div>
+</div>
