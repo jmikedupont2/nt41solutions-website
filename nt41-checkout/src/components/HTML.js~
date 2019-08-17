@@ -1,0 +1,30 @@
+import React from "react";
+import Body2 from "./Body2";
+import Header from "./Header";
+import Home from "./Home";
+import About from "./About";
+import Contact from "./Contact";
+import Footer from "./Footer";
+
+class HTML extends React.Component {
+  render() {
+    return (
+      <div>
+        <meta charSet="UTF-8" />
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+        />
+        <title>NT41</title>
+        <Body2></Body2>
+        <Header></Header>
+        <Home></Home>
+        <About></About>
+        <Contact></Contact>
+        <Footer></Footer>
+      </div>
+    );
+  }
+}
+
+export default HTML;
