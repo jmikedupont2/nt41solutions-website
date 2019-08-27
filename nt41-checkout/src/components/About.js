@@ -24,7 +24,7 @@ class About extends React.Component {
         >
             <img
     	    alt="showcase"
-            src="/wp-content/uploads/2019/02/showcase.png"
+        src={process.env.PUBLIC_URL +"/showcase.png"}
             style={{
               boxSizing: "border-box",
               verticalAlign: "middle",
@@ -41,8 +41,8 @@ class About extends React.Component {
             <img
 	alt="showcase-2"
             className="img60-left-bg"
-            src="/wp-content/themes/nt41/images/grey2.png"
-            style={{
+        src={process.env.PUBLIC_URL +"/grey2.png"}
+        style={{
               boxSizing: "border-box",
               verticalAlign: "middle",
               borderStyle: "none",
@@ -108,7 +108,7 @@ class About extends React.Component {
                     fontSize: "34px",
                     lineHeight: "55px",
                     fontWeight: 500,
-                    visibility: "hidden",
+                   
                     marginBottom: "80px"
                   }}
                 >
@@ -126,12 +126,12 @@ class About extends React.Component {
                     flexWrap: "wrap",
                     marginRight: "-15px",
                     marginLeft: "-15px",
-                    visibility: "hidden",
+                   
                     listStyle: "none",
                     paddingLeft: 0
                   }}
                 >
-                  <Arrow></Arrow>
+                  <Arrow name="funky"></Arrow>
                 </ul>
                 <a
                   href="#"
@@ -140,7 +140,7 @@ class About extends React.Component {
                     boxSizing: "border-box",
                     textDecoration: "none",
                     backgroundColor: "transparent",
-                    visibility: "hidden",
+                   
                     display: "flex",
                     alignItems: "center",
                     marginTop: "90px",
@@ -154,34 +154,9 @@ class About extends React.Component {
                     transition: "color .3s ease-in-out"
                   }}
                 >
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 70.13 36.23"
-                    width="58.673"
-                    height="44.607"
-                    style={{
-                      boxSizing: "border-box",
-                      overflow: "hidden",
-                      verticalAlign: "middle",
-                      marginRight: "20px",
-                      WebkitTransform: "rotate(180deg)",
-                      MozTransform: "rotate(180deg)",
-                      msTransform: "rotate(180deg)",
-                      OTransform: "rotate(180deg)",
-                      transform: "rotate(180deg)",
-                      willChange: "trasnform"
-                    }}
-                  >
-                    <path
-                      fill="#85c226"
-                      d="M42.28,34.65,0,18.21l44.31-17C51.87-1.7,60,1,65.09,5.86l.17.17,0,0a16.48,16.48,0,0,1,4.8,12.52v.31a19.11,19.11,0,0,1-6.32,12.52l-.19.16-.06.06C57.83,36.6,49.49,37.45,42.28,34.65Z"
-                      transform="translate(0)"
-                      style={{
-                        boxSizing: "border-box"
-                      }}
-                    />
-                  </svg>
-                  <span
+              
+              <img alt="arrow" src={process.env.PUBLIC_URL +"/arrow.svg"} />
+            <span
                     style={{
                       boxSizing: "border-box"
                     }}

@@ -13,7 +13,7 @@ class ShoppingLink extends React.Component {
           textDecoration: "none",
           backgroundColor: "transparent",
           display: "inline-block",
-          visibility: "hidden",
+         
           marginTop: "75px",
           padding: "0 26px",
           fontSize: "18px",

@@ -7,11 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "propritary",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-paypal-button-v2": "^2.3.2",
+    "rimraf": "^3.0.0",
     "yarn": "^1.17.3"
   }
 }

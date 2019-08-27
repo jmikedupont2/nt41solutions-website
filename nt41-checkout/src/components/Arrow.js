@@ -2,7 +2,7 @@ import React from "react";
 import ArrowSVG from "./ArrowSVG";
 
 class Arrow extends React.Component {
-  render() {
+  render(props) {
     return (
       <li
         className="col-xl-6 col-lg-12 col-md-6 col-sm-6"
@@ -27,7 +27,7 @@ class Arrow extends React.Component {
           }}
         >
           <ArrowSVG></ArrowSVG>
-          Plant Based{" "}
+          {props.name}
         </div>
       </li>
     );

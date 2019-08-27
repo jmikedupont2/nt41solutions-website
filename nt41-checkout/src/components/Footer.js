@@ -53,7 +53,7 @@ class Footer extends React.Component {
                   width: "100%",
                   paddingRight: "15px",
                   paddingLeft: "15px",
-                  visibility: "hidden"
+              
                 }}
               >
                 <a
@@ -86,7 +86,7 @@ class Footer extends React.Component {
                   width: "100%",
                   paddingRight: "15px",
                   paddingLeft: "15px",
-                  visibility: "hidden"
+            
                 }}
               >
                 <h3
@@ -244,7 +244,7 @@ class Footer extends React.Component {
                   width: "100%",
                   paddingRight: "15px",
                   paddingLeft: "15px",
-                  visibility: "hidden"
+              
                 }}
               >
                 <h3
@@ -376,7 +376,7 @@ class Footer extends React.Component {
                   width: "100%",
                   paddingRight: "15px",
                   paddingLeft: "15px",
-                  visibility: "hidden"
+          
                 }}
               >
                 <p
@@ -401,7 +401,7 @@ class Footer extends React.Component {
                   width: "100%",
                   paddingRight: "15px",
                   paddingLeft: "15px",
-                  visibility: "hidden"
+               
                 }}
               >
                 <a
@@ -478,7 +478,7 @@ class Footer extends React.Component {
                   width: "100%",
                   paddingRight: "15px",
                   paddingLeft: "15px",
-                  visibility: "hidden"
+                 
                 }}
               >
                 <a

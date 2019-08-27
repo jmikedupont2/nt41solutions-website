@@ -33,7 +33,7 @@ class About2 extends React.Component {
               fontWeight: 500,
               fontSize: "38px",
               lineHeight: "50px",
-              visibility: "hidden",
+             
               marginBottom: "80px"
             }}
           >
@@ -65,8 +65,7 @@ class About2 extends React.Component {
                 position: "relative",
                 width: "100%",
                 paddingRight: "15px",
-                paddingLeft: "15px",
-                visibility: "hidden"
+                paddingLeft: "15px"
               }}
             >
               <p
@@ -93,7 +92,7 @@ class About2 extends React.Component {
                 width: "100%",
                 paddingRight: "15px",
                 paddingLeft: "15px",
-                visibility: "hidden"
+               
               }}
             >
               <p

@@ -25,7 +25,7 @@ class Home extends React.Component {
         >
             <img
 	alt="bottle"
-            src="/wp-content/uploads/2019/07/nt41_bottle-1.png"
+        src={process.env.PUBLIC_URL +"/nt41_bottle-1.png"}
             style={{
               boxSizing: "border-box",
               verticalAlign: "middle",
@@ -42,8 +42,8 @@ class Home extends React.Component {
           />
             <img
 		alt="grey1"
-            className="img60-right-bg"
-            src="/wp-content/themes/nt41/images/grey.png"
+        className="img60-right-bg"
+        src={process.env.PUBLIC_URL +"/grey.png"}
             style={{
               boxSizing: "border-box",
               verticalAlign: "middle",
@@ -99,7 +99,7 @@ class Home extends React.Component {
                 style={{
                   boxSizing: "border-box",
                   marginTop: 0,
-                  visibility: "hidden",
+                 
                   marginBottom: "30px",
                   fontSize: "62px",
                   lineHeight: "70px",
@@ -114,7 +114,7 @@ class Home extends React.Component {
                   boxSizing: "border-box",
                   marginTop: 0,
                   marginBottom: "1rem",
-                  visibility: "hidden",
+                
                   fontSize: "22px",
                   lineHeight: "34px",
                   fontWeight: 500

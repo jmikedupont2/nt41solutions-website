@@ -16,7 +16,7 @@ class Contact extends React.Component {
           backgroundRepeat: "no-repeat",
           backgroundSize: "cover",
           backgroundPosition: "center",
-          backgroundImage: "url(/wp-content/uploads/2019/02/contact_bg.png)"
+          backgroundImage: "url(/public//contact_bg.png)"
         }}
       >
         <div
@@ -50,7 +50,7 @@ class Contact extends React.Component {
                 width: "100%",
                 paddingRight: "15px",
                 paddingLeft: "15px",
-                visibility: "hidden"
+             
               }}
             >
               <h3
@@ -75,7 +75,7 @@ class Contact extends React.Component {
                 width: "100%",
                 paddingRight: "15px",
                 paddingLeft: "15px",
-                visibility: "hidden"
+           
               }}
             >
               <p
@@ -280,7 +280,7 @@ class Contact extends React.Component {
                     width: "100%",
                     paddingRight: "15px",
                     paddingLeft: "15px",
-                    visibility: "hidden"
+            
                   }}
                 >
                   <span
@@ -331,7 +331,7 @@ class Contact extends React.Component {
                     width: "100%",
                     paddingRight: "15px",
                     paddingLeft: "15px",
-                    visibility: "hidden"
+               
                   }}
                 >
                   <span
@@ -382,7 +382,7 @@ class Contact extends React.Component {
                     width: "100%",
                     paddingRight: "15px",
                     paddingLeft: "15px",
-                    visibility: "hidden"
+                
                   }}
                 >
                   <span
@@ -472,7 +472,7 @@ class Contact extends React.Component {
                     width: "100%",
                     paddingRight: "15px",
                     paddingLeft: "15px",
-                    visibility: "hidden"
+              
                   }}
                 >
                   <span
@@ -523,7 +523,7 @@ class Contact extends React.Component {
                     width: "100%",
                     paddingRight: "15px",
                     paddingLeft: "15px",
-                    visibility: "hidden"
+               
                   }}
                 >
                   <div
