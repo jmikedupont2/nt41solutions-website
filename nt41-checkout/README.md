@@ -1675,3 +1675,28 @@ You may serve it with a static server:
 
   npm install -g serve
   serve -s build
+
+
+To do github
+    npm install -g gh-pages
+    npm run deploy
+
+
+Other things
+
+    apt-get install clang
+    pip install  cffi
+    apt-get install jq
+    pip install yq
+    apt-get install python2
+    apt-get install make
+    npm install -s gulp gulp-plumber gulp-rename gulp-autoprefixer gulp-babel gulp-concat gulp-jshint gulp-uglify gulp-imagemin gulp-cache gulp-sass browser-sync
+    npm install -g rimraf
+    npm install react-scripts
+    npm install --save-dev gulp-babel @babel/core @babel/preset-env
+    npm install --save-dev gulp
+    pkg install wget
+    npm install react-render-cli
+    npm install -g serve
+    pkg install autoconf automake
+    npm install --save-dev @babel/core @babel/cli

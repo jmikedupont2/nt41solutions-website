@@ -1,7 +1,8 @@
 {
   "name": "nt41-checkout",
-  "version": "0.1.0",
-  "private": true,
+    "version": "0.1.0",
+    "homepage": "https://jmikedupont2.github.io/nt41solutions-website",
+    "private": false,
   "dependencies": {
     "browser-sync": "^2.26.7",
     "cssbeautify": "^0.3.1",
@@ -32,10 +33,13 @@
     "gulp-babel": "^8.0.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test --env=jsdom",
+      "eject": "react-scripts eject",      
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build"
+    
   },
   "main": "index.js",
   "license": "propreitary"
